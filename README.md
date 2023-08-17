@@ -1,2 +1,2 @@
-# MachineLearningScientist
-Essential Python skills for machine learning. 
+# Machine Learning
+Essential Python skills for Machine Learning. 
